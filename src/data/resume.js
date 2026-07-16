@@ -86,5 +86,5 @@ export const education = {
   school: 'Hindusthan College of Engineering',
   degree: 'BE — Electrical & Electronics',
   place: 'Coimbatore, Tamil Nadu',
-  meta: 'CGPA: 6 · Graduated Mar 2019',
+  meta: '· Graduated Mar 2019',
 };
