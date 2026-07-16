@@ -1,7 +1,7 @@
 export const profile = {
   name: 'Bharanitharan M',
   initials: 'BM',
-  role: 'Full Stack Developer',
+  role: 'Software Developer',
   location: 'Erode, Tamil Nadu',
   locationNote: 'Open to relocation / remote',
   phone: '+91 7449015872',
